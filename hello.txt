@@ -1,2 +1,1 @@
 Hola, este es mi primer archivo en Git.
-Hasta luego nos vemos pronto 
