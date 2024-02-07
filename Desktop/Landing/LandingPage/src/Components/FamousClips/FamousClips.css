@@ -1,0 +1,4 @@
+.CardsFamous{
+    display: flex;
+    flex-direction: column;
+}
